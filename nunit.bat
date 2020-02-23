@@ -1,0 +1,1 @@
+echo "Start NUnit testing at %date% %time%..."

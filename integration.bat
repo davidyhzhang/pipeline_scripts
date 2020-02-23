@@ -1,0 +1,1 @@
+echo "Start integration testing at %date% %time%..."

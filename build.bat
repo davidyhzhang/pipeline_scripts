@@ -1,0 +1,1 @@
+echo "Start building at %date% %time%..."

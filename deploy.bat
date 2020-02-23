@@ -1,0 +1,1 @@
+echo "Start deloyment at %date% %time%..."
